@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136195204998",
+    "project_id": "ashtottara-shantanamavali",
+    "storage_bucket": "ashtottara-shantanamavali.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136195204998:android:7e75abaf49b4de8bbb2e07",
+        "android_client_info": {
+          "package_name": "com.darshankomu.ashtottara_shantanamavali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136195204998-7pan6a2i3nppjbhv8vvs4qrn7dn9hesv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoTABBw57eglC-gE-PrBYbR8_5H77n9SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136195204998-7pan6a2i3nppjbhv8vvs4qrn7dn9hesv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
